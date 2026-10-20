@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+backend/images/
+backend/telegram.session
+backend/telegram.session-journal
+*.log
